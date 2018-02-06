@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516662784 source:c:\users\dell\desktop\lab4\a\main.cpp
+	<iostream>
+	<stdio.h>
+
+1516663378 source:c:\users\dell\desktop\lab4\a\main.c
+	<stdio.h>
+	<stdlib.h>
+
